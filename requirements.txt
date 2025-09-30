@@ -1,0 +1,5 @@
+# Chatbot Básico - Requisitos mínimos
+# Este chatbot usa solo la biblioteca estándar de Python
+# No requiere instalaciones externas para mantener un uso mínimo de recursos
+
+# Python >= 3.6 (para compatibilidad con f-strings)
